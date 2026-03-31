@@ -26,7 +26,7 @@
 <ul>
     <li><a href="https://political-atom-9e1.notion.site/Python-121256b91242818283c3ee4b946aee0f?p=303256b912428039a8d6db6e51220bb8&pm=s">🐍 Python Study</a></li>
     <li><a href="https://political-atom-9e1.notion.site/SQL-247256b9124280f0a786c8b5ef2ee98d?p=311256b91242803da994d509a442a7b9&pm=s#311256b9124280d4afbad6e77f4a264b">🗄 SQL Study</a></li>
-    <li><a href="https://political-atom-9e1.notion.site/Github-121256b9124281aeae5cf405e2ce3e45?source=copy_link">GitHub</a></li>
+    <li><a href="https://political-atom-9e1.notion.site/330256b9124280ad90a8c2dad236d7bf?v=330256b9124280c095fb000c3eb5891b&source=copy_link">📊 Statistics Study</a></li>
 </ul>
 
 <h2>🏆 Certifications</h2>
